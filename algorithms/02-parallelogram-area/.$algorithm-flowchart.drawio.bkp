@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2024-04-11T23:30:54.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="USeqTc_zqTV4YsjsRNyQ" version="22.1.21" type="device">
+  <diagram name="Page-1" id="6f7wbPanEzozHGWUEkWh">
+    <mxGraphModel dx="955" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rgDoyKE1JFjaXjuiLnZl-1" target="rgDoyKE1JFjaXjuiLnZl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-1" value="start" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rgDoyKE1JFjaXjuiLnZl-2" target="rgDoyKE1JFjaXjuiLnZl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rgDoyKE1JFjaXjuiLnZl-5" target="rgDoyKE1JFjaXjuiLnZl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-5" value="area = base * height" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="655" y="300" width="289.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="693" y="190" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;base,&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;height&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="rgDoyKE1JFjaXjuiLnZl-7">
+          <mxGeometry width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-4" value="Read" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="rgDoyKE1JFjaXjuiLnZl-7">
+          <mxGeometry x="27" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="693" y="400" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-9" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;area&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="rgDoyKE1JFjaXjuiLnZl-8">
+          <mxGeometry width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-10" value="Return" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="rgDoyKE1JFjaXjuiLnZl-8">
+          <mxGeometry x="27" width="43" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-12" value="end" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="740.5" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rgDoyKE1JFjaXjuiLnZl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rgDoyKE1JFjaXjuiLnZl-9" target="rgDoyKE1JFjaXjuiLnZl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
